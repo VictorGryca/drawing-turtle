@@ -8,7 +8,7 @@ A explicação detalhada de cada etapa está no `principal.ipynb`.
 
 ## Vídeo
 
-<!-- cole o link do vídeo aqui -->
+[Link do vídeo explicativo](https://youtu.be/Nskzss0gGVQ)
 
 ## Como executar
 
